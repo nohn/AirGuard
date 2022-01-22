@@ -90,8 +90,7 @@
     <string name="settings_privacy_policy_title">Datenschutzerklärung</string>
     <string name="settings_privacy_policy_summary">Unsere simple Datenschutzerklärung</string>
     <string name="alert_sent_icon">"Alarm wurde gesendet"-Icon</string>
-    <string name="airtag_icon">AirTag-Icon</string>
-    <string name="find_my_device_icon">"Find My"-Geräte-Icon</string>
+    <string name="device_icon">Geräte-Icon</string>
     <string name="location_sample_image">Standortbeispiel-Bild</string>
     <string name="location_permission_title">Standortzugriff</string>
     <string name="location_permission_message">Diese App benötigt die Berechtigung auf deinen Standort zugreifen zu dürfen, um Bluetooth-Scans für AirTags und andere "Find My" Geräte zu ermöglichen, auch wenn die App geschlossen oder nicht in Gebrauch ist. Außerdem kannst du der App optional erlauben einen Standort verlauf anzuzeigen, wenn du verfolgt werden solltest.</string>
@@ -172,4 +171,5 @@
     <string name="show_all_button">Alle Geräte anzeigen</string>
     <string name="empty_image_content_description">Bild zeigt leere Liste</string>
     <string name="notification_title_ble_error">BLE Scan fehlgeschlagen</string>
+    <string name="device_name_tile">Tile %s</string>
 </resources>
