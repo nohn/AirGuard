@@ -80,13 +80,11 @@
     <string name="onboarding_share_data_no">Nein</string>
     <string name="onboarding_share_data_yes">Ja</string>
     <string name="onboarding_share_data_dialog">Du musst entscheiden, ob du anonymisierte Daten teilen willst oder nicht.</string>
-    <string name="device_name_find_my_device">"Find My"-Gerät %s</string>
     <string name="notification_text">Öffnen, um weitere Informationen zu erhalten. Ein Gerät ist dir für mindestens 30 Minuten gefolgt.</string>
     <string name="notification_title">Ein Tracker wurde entdeckt!</string>
     <string name="map_empty_text">Es wurden noch keine Geräte gefunden. Jedes Mal, wenn ein Gerät entdeckt wird, wird sein Standort auf der Karte angezeigt. Dies bedeutet nicht, dass jemand Sie an jedem Standort geortet hat. In den meisten Fällen werden Sie Geräte von anderen in öffentlichen Verkehrsmitteln oder von einem Ihrer Nachbarn finden.</string>
     <string name="beacons">Signale</string>
     <string name="dashboard_tile_change">+%d</string>
-    <string name="device_name_airtag">AirTag %s</string>
     <string name="settings_privacy_policy_title">Datenschutzerklärung</string>
     <string name="settings_privacy_policy_summary">Unsere simple Datenschutzerklärung</string>
     <string name="alert_sent_icon">"Alarm wurde gesendet"-Icon</string>
@@ -171,5 +169,4 @@
     <string name="show_all_button">Alle Geräte anzeigen</string>
     <string name="empty_image_content_description">Bild zeigt leere Liste</string>
     <string name="notification_title_ble_error">BLE Scan fehlgeschlagen</string>
-    <string name="device_name_tile">Tile %s</string>
 </resources>
