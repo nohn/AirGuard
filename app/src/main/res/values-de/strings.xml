@@ -169,4 +169,7 @@
     <string name="show_all_button">Alle Geräte anzeigen</string>
     <string name="empty_image_content_description">Bild zeigt leere Liste</string>
     <string name="notification_title_ble_error">BLE Scan fehlgeschlagen</string>
+    <string name="play_sound_error_fail">Ton konnte nicht abgespielt werden! Versuche es erneut!</string>
+    <string name="play_sound_error_init">Es konnte keine Verbindung zum Bluetooth Service hergestellt werden!</string>
+    <string name="play_sound_error_connect">Verbindung zum Gerät fehlgeschlagen!</string>
 </resources>
